@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 # lesspipe.sh, a preprocessor for less
 lesspipe_version=2.18
 # Author: Wolfgang Friebel (wp.friebel AT gmail.com)
